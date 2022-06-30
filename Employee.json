@@ -1,0 +1,72 @@
+{
+	"Id": 1001,
+	"FullName": "Oliver Kahn",
+	"Salary": "1,180,000",
+	"Role": "Full Stack Developer",
+	"Designation" : "Senior Developer",
+	"ManagerId": 2001
+},
+{
+	"Id": 1002,
+	"FullName": "Leander Peas",
+	"Salary": "1,150,000",
+	"Role": "Full Stack Developer",
+	"Designation" : "Senior Developer",
+	"ManagerId": 2002
+},
+{
+	"Id": 1003,
+	"FullName": "Roger Federer",
+	"Salary": "850,000",
+	"Role": "Designer",
+	"Designation" : "UI & UX Developer",
+	"ManagerId": 2001
+}
+,{
+	"Id": 1004,
+	"FullName": "Steffi Graf",
+	"Salary": "1,950,000",
+	"Role": "Quality Analyst",
+	"Designation" : "Senior QA",
+	"ManagerId": 2001
+}
+,{
+	"Id": 1005,
+	"FullName": "Michael Phelps",
+	"Salary": "2,100,000",
+	"Role": "Manager",
+	"Designation" : "Project Manager",
+	"ManagerId": 1
+}
+,{
+	"Id": 1006,
+	"FullName": "Chris Gayle",
+	"Salary": "1,350,000",
+	"Role": "Admin",
+	"Designation" : "Network Engineer",
+	"ManagerId": 2001
+},
+{
+	"Id": 1007,
+	"FullName": "Johnty Rhoades",
+	"Salary": "1,750,000",
+	"Role": "Full Stack Developer",
+	"Designation" : "Sr Software Engineer",
+	"ManagerId": 2001
+},
+{
+	"Id": 1008,
+	"FullName": "Sachin Tendulkar",
+	"Salary": "2,375,000",
+	"Role": "Manager",
+	"Designation" : "Project Manager",
+	"ManagerId": 1
+},
+{
+	"Id": 1,
+	"FullName": "Mahendra Singh Dhoni",
+	"Salary": "5,000,000",
+	"Role": "Full Stack Developer",
+	"Designation" : "Director",
+	"ManagerId": null
+}
